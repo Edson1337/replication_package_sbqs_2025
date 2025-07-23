@@ -1,0 +1,1 @@
+For generating <tool or test type> test cases follow these steps: <reasoning steps> Following these steps for the <target> generate the <test type> tests

@@ -1,0 +1,1 @@
+A good <tool and/or testing type> test should address the following characteristics: <expected characteristics> Based on these characteristics create <testing type> tests for the <target>

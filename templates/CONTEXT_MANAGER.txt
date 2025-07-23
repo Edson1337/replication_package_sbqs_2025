@@ -1,0 +1,1 @@
+Considering that this application is built in <language> and that this class is responsible for <class’ goal>, generate <testing type> tests in <tool> for it
